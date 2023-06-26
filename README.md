@@ -8,6 +8,7 @@ To use the `react-material-chip-custom-add-edit-and-delete` component in your Re
 
 ```bash
 npm install @mui/material react react-dom
+```
 
 ## Demo
 
