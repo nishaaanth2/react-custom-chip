@@ -12,7 +12,7 @@ npm install @mui/material react react-dom
 
 ## Demo
 
-![Demo](demo-crop.gif)
+![Demo](demo-cropped.gif)
 
 This GIF demonstrates the functionality of the project.
 For a live demo, you can check out the [React Material Chip - Custom Add, Edit, and Delete Demo](https://codesandbox.io/s/react-material-chip-custom-add-edit-and-delete-vvftzn?file=/demo.tsx:0-3420) on CodeSandbox.
