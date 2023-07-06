@@ -1,4 +1,4 @@
-# react-material-chip-custom-add-edit-and-delete
+# React MUI Chip Custom (add, edit and delete)
 
 This is a React component that provides a custom implementation of chips using the Material-UI library. It allows users to add, edit, and delete chips dynamically.
 
